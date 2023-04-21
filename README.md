@@ -1,2 +1,2 @@
-# Portfolio
-This is my HTML-Portfolio as a Coder
+# First Day of coding 
+This is what I did on my first day of facing with code world!
